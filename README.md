@@ -9,7 +9,6 @@ This Repo Contains low Level Driver for STM32F446RE Peripherals
 The Repository Contains the following drivers:
 - RCC
 - GPIO
-- SYSTICK
 - NVIC
 - USART
 
