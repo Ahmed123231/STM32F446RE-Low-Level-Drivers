@@ -8,7 +8,7 @@
  * and word length. It provides both single-byte and array transmission functions,
  * as well as a function for receiving data.
  *
- * @author  Gerardo
+ * @author  Ahemd Atef Eid 
  * @date    2024-11-12
  * @version 1.0
  *
